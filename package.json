@@ -16,7 +16,6 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "terser": "^4.6.6",
-    "minimist": "^1.2.5"
+    "terser": "^4.6.6"
   }
 }
